@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SafeGuard Parental Control</string>
+    <string name="accessibility_service_description">SafeGuard Parental Control uses Accessibility Services to inspect web addresses in browsers like Google Chrome, enforce website blacklists, and block restricted apps when time limits or curfews are active.</string>
+    <string name="device_admin_label">SafeGuard Protection</string>
+    <string name="device_admin_description">Enables anti-tamper security to prevent unauthorized removal of parental control restrictions.</string>
+    <string name="guardian_channel_name">Parental Protection Active</string>
+    <string name="guardian_channel_desc">Active foreground service protecting device and enforcing parental rules</string>
+</resources>
